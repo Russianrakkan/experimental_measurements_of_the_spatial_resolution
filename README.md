@@ -1,5 +1,5 @@
 # Experimental measurements of the pixel semiconductor transition radiation detectors' spatial resolution
 The following pdf-file contains a student-oriented research work report with the topic: "Experimental measurements of the pixel semiconductor transition radiation detectors' spatial resolution". It's written in Russian, but You can learn about it from the abstract below.
 ***
-Abstract:
+**Abstract:**
 Transient radiation Detectors (TRDs) are widely used for detecting ultrarelativistic charged particles. From 2017 to 2021, 3 experiments were conducted on the beam of the SPS accelerator at CERN to study prototypes of pixel detectors of transient radiation: in 2017, a silicon sensor was used, and in 2018 and In 2021, a gallium arsenide sensor was used. The purpose of the work is an investigation of the spatial resolution of semiconductor pixel transient radiation detectors based on Si and GaAs using data obtained from experiments on transient radiation detectors at the SPS accelerator at CERN in 2017 and 2021, as well as the study of techniques to improve the spatial resolution, which will lead to the basis for the creation of a new type of transient radiation detector that allows the identification of a particle, at the same time, by accurately measuring its coordinate and the Lorentz factor.
